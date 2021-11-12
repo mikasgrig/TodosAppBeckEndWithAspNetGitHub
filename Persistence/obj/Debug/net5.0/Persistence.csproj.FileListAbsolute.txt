@@ -1,0 +1,15 @@
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\Contracts.dll
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\bin\Debug\net5.0\Contracts.pdb
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\grigm\source\repos\TodosApp.BIT-master\Persistence\obj\Debug\net5.0\Persistence.pdb
